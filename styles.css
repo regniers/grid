@@ -1,0 +1,9 @@
+html{
+	width:80%; height:100%;
+	padding-left:10%;
+}
+#box{
+	border:1px dotted black;
+	width:30px; height:30px;
+	display:inline-block;
+}
